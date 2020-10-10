@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#virtual environment
+venv/
+new_venv/
+
+#any .ipynb checkpoints
+.ipynb_checkpoints/
+

@@ -86,7 +86,7 @@ setup(
     version="0.0.1",
     description="A template for embedding voila into an existing site",
     data_files=data_files,
-    install_requires=['voila>=0.1.11,<0.2'],
+    install_requires=['voila>=0.1.11,<0.2.3'],
     include_package_data=True,
     author='O.Klosi',
     author_email='olta.klosi@gmail.com',
